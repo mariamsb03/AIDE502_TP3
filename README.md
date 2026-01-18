@@ -26,5 +26,10 @@ There are some files as:
   - tests folder: inside there are 2 python files that queries the data at each stage (staging & curated)
   - dvc.yaml: is the whole pipeline automated
 
+## Data Preview at Staging
 
-https://github.com/mariamsb03/AIDE502_TP3/issues/1#issue-3827346899
+![image](https://github.com/mariamsb03/AIDE502_TP3/issues/1#issue-3827346899)
+
+## Data Preview at Curated
+
+![image](https://github.com/mariamsb03/AIDE502_TP3/issues/1#issue-3827346899)
