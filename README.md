@@ -16,7 +16,6 @@ After successful execution, you should see:
 - ✅ WikiText data downloaded
 - ✅ ~36,000+ texts in MySQL staging
 - ✅ ~36,000+ tokenized documents in MongoDB curated
-- ✅ All log files created
 
 ## Additional
 There are some files as:
