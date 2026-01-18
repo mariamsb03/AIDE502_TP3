@@ -1,0 +1,8 @@
+data/
+datasets/
+.dvc/cache/
+*.csv
+*.parquet
+*.pkl
+*.pt
+*.zip
