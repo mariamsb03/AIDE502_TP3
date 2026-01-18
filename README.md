@@ -25,3 +25,6 @@ There are some files as:
   - try_sqlite.py: this is to test the SQLite
   - tests folder: inside there are 2 python files that queries the data at each stage (staging & curated)
   - dvc.yaml: is the whole pipeline automated
+
+
+https://github.com/mariamsb03/AIDE502_TP3/issues/1#issue-3827346899
