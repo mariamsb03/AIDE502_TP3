@@ -28,8 +28,9 @@ There are some files as:
 
 ## Data Preview at Staging
 
-![image](https://github.com/mariamsb03/AIDE502_TP3/issues/1#issue-3827346899)
+<img width="1128" height="133" alt="Screenshot 2026-01-18 143408" src="https://github.com/user-attachments/assets/09df6baf-09c2-4626-b83e-42a4cc62f69d" />
 
 ## Data Preview at Curated
 
-![image](https://github.com/mariamsb03/AIDE502_TP3/issues/1#issue-3827346899)
+<img width="1033" height="373" alt="Screenshot 2026-01-18 143358" src="https://github.com/user-attachments/assets/acdec0f4-989b-4f07-b1fd-6893912de463" />
+
